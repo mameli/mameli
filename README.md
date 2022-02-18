@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 My personal blog (under contruction 🏗): [mameli.dev](mameli.dev)
+- 📝 My personal blog (under contruction 🏗): [mameli.dev](https://www.mameli.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
