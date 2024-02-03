@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
-<h3 align="center">I'm a data engineer</h3>
+<h3 align="center">I'm a Ai engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mameli&label=Profile%20views&color=0e75b6&style=flat" alt="mameli" /> </p>
 
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **LLM related stuff**
 
-- 📝 My personal blog (under contruction 🏗): [mameli.dev](https://www.mameli.dev/)
+- 📝 My personal blog: [mameli.dev](https://www.mameli.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
