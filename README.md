@@ -9,7 +9,7 @@ I am a Data engineer at AgileLab. I am a curious technology aficionado who enjoy
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## Writing
-
+- [A Modern Python Stack for Data Projects](https://www.mameli.dev/blog/modern-data-python-stack/) — uv, ruff, ty, Marimo, Polars
 - [My 2026 Coding Stack](https://www.mameli.dev/blog/ai_workflow_eng/) — Why I Stick With Flexibility Over Hype
 - [Migrating My Personal Website](https://www.mameli.dev/blog/astro-migration/) — Exploring alternatives to Next.js after recent vulnerabilities
 - [Prompt Engineering Lessons](https://www.mameli.dev/blog/prompt-engineering-lessons/) — Lessons Learned from Google's Guide
